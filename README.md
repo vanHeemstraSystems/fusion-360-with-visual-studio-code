@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+fusion-360-with-visual-studio-code
+# Fusion 360 with Visual Studio Code
 
-Based on "ABC" at https://www.abc.com/
+Based on "Autodesk Fusion 360 Post Editor for Visual Studio Code" at https://github.com/Autodesk/cam-posteditor
 
 ## 100 - Introduction
 
